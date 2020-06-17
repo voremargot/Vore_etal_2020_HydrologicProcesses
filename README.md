@@ -2,7 +2,7 @@
 This repository contains the code used to manipulate ERA5-land climate data<sup>1</sup> and produce results for the Vore et. al (2020) paper currently under review in the journal Hydrological Processes.
 
 ## Files
-Files are organized by their relevancy in the mansucript. All code 
+All code is presented in Jupyter Notebook files written in Python. Files are organized by their relevancy in the mansucript, with the flow chart below showing the order in which files should be run to replicate our work. 
 
 
 ## References
