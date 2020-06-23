@@ -15,7 +15,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **Calculating_Constraints.ipynb** --> This code calculate the contraints C1-C4 in the Safranyik et al. (1975) model<sup>3</sup> (Table  2 in Vore et al (2020)). This code takes the precipitation and temperature data for each year and creates a binary rasters (1 if the contstraint is met, 0 if it is not met) for C1, C3, and C4. For constraint C2, the code counts the number of cold days each year for each grid cell and creates a count Raster, identifying how many days the minimum temperature fell below -40C. A raster for each year and constraint is created. 
 
-**MPB_Analysis.ipynb**
+**MPB_Climate_Analysis.ipynb**--> 
 
 
 ## References
