@@ -18,7 +18,18 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **MPB_Climate_Analysis.ipynb**--> This code uses all the outputs calculated in Aridity.ipynb, Growing_Season.ipynb,and Calculating_Constraints.ipynb to plot the relationship between MPB CSC's and MPB outbreaks themselves. The code can be run for different time-intervals (in the manuscript it mentions 5, 10, and 15 year analysis, but can be used over any time spans.
 
-** ** -->
+**ForestFire_Summary.ipynb** --> Creates a summary of forest fire events in each watershed since 1981.
+
+**Climate Index and Forest Fires.ipynb** --> 
+
+**Forest Fires and Runoff.pynb** -->
+
+**Runoff and MPB.ipynb** -->
+
+**Fhu Equation.ipynb** --> 
+
+## Data
+
 
 
 ## References
