@@ -1,5 +1,6 @@
 
-## This repository contains the code used to manipulate ERA5-land climate data<sup>1</sup> and produce results for the Vore et. al (2020) paper currently under review in the journal Hydrological Processes.
+## Introduction
+This repository contains the code used to manipulate ERA5-land climate data<sup>1</sup> and produce results for the Vore et. al (2020) paper currently under review in the journal Hydrological Processes.
 
 ## Files
 All code is presented in Jupyter Notebook files written in Python. Files are organized by their relevancy in the mansucript, with the flow chart below showing the order in which files should be run to replicate our work. 
@@ -15,7 +16,9 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **Calculating_Constraints.ipynb** --> This code calculate the contraints C1-C4 in the Safranyik et al. (1975) model<sup>3</sup> (Table  2 in Vore et al (2020)). This code takes the precipitation and temperature data for each year and creates a binary rasters (1 if the contstraint is met, 0 if it is not met) for C1, C3, and C4. For constraint C2, the code counts the number of cold days each year for each grid cell and creates a count Raster, identifying how many days the minimum temperature fell below -40C. A raster for each year and constraint is created. 
 
-**MPB_Climate_Analysis.ipynb**--> 
+**MPB_Climate_Analysis.ipynb**--> This code uses all the outputs calculated in Aridity.ipynb, Growing_Season.ipynb,and Calculating_Constraints.ipynb to plot the relationship between MPB CSC's and MPB outbreaks themselves. The code can be run for different time-intervals (in the manuscript it mentions 5, 10, and 15 year analysis, but can be used over any time spans.
+
+** ** -->
 
 
 ## References
