@@ -5,7 +5,7 @@ This repository contains the code used to manipulate ERA5-land climate data<sup>
 ## Files
 All code is presented in Jupyter Notebook files written in Python. Files are organized by their relevancy in the mansucript, with the flow chart below showing the order in which files should be run to replicate our work. 
 
-![TREAT](C:\Users\margo.DESKTOP-T66VM01\Desktop\UNBC\Writting_Drafts\FlowChart_GitHub.png)
+![Flow Chart](FlowChart_GitHub.png)
 
 
 ## Individual Files
