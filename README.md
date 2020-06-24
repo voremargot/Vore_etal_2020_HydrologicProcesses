@@ -22,7 +22,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **Climate Index and Forest Fires.ipynb** --> This code creates a climate index from noramlized precipitation anomalies and normalized temperature anomalies. Climate index trends are then calculated and plots showing the relationship between forest fire size and the climate index are produced for multiple seasons and years. 
 
-**Forest Fires and Runoff.pynb** --> 
+**Forest Fires and Runoff.pynb** --> This code summerizes runoff/precipitation (R/P) and normalized precipitation anomalies (NPA) for 3 years pre- and post- forest fire events. Normalized R/P anomalies are calculated and the extreme R/P events (those that exceed the 95th perrcentile of data) are determined. These extreme R/P events are then compared to NPA to determine if they fall within the data distribution. 
 
 **Runoff and MPB.ipynb** -->
 
