@@ -29,7 +29,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 **Fhu Equation.ipynb** --> This code calculates the average m and P/PET for each of our watersheds, according to Fhu's equation<sup>2</sup>. The findings of these calculations are compared with the conclusions made in Zhou et al. (2015).
 
 ## Data
-**Climate_Monthly_Summary.xlsx** --> This contains monthly climate statistics calculated from ERA5-land hourly data<sup>1</sup> for each of our watersheds from 1981-2019 as  well as observed runoff data from the water survey of canada<sup>4</sup>.  
+**Climate_Monthly_Summary.xlsx** --> This contains monthly climate statistics calculated from ERA5-land hourly data<sup>1</sup> for each of our watersheds from 1981-2019 as  well as observed runoff data from the Environment and Climate Change Canada <sup>4</sup>.  
 
 **ERA5_land_Climate_Index.xlsx** --> This contains the normalized precipitation anomalies (NPA) and normalized temperature anomalies (NTA) for each watershed from 1981-2019 for each season (annual, spring, summer, fall, winter)
 
@@ -43,6 +43,8 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 <sup>3</sup> Safranyik, L., Shrimpton, D. M., & Whitney, H. S. (1975). An interpretation of the interaction between lodgepole pine, the mountain pine beetle, and its associated blue stain fungi in western Canada. Management of Lodgepole Pine Ecosystems Symposium Proceedings, 406–428. http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:No+Title#0
 
-<sup>4</sup> 
+<sup>4</sup> Environment and Climate Change Canada. (2020). National Water Data Archive: HYDAT. https://www.canada.ca/en/environment-climate-%0Achange/services/water-overview/quantity/monitoring/survey/data-products-%0Aservices/national-archive-hydat.html
+
+<sup>5</sup> Government of British Columbia. (2019b). Fire Perimeter- Historical. Ministry of Forests, Lands, Natural Resource Operations and Rural Development. https://catalogue.data.gov.bc.ca/dataset/fire-perimeters-historical
 
 
