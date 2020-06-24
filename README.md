@@ -5,6 +5,9 @@ This repository contains the code used to manipulate ERA5-land climate data<sup>
 ## Files
 All code is presented in Jupyter Notebook files written in Python. Files are organized by their relevancy in the mansucript, with the flow chart below showing the order in which files should be run to replicate our work. 
 
+![](C:\Users\margo.DESKTOP-T66VM01\Desktop\UNBC\Writting_Drafts\FlowChart_GitHub.png)
+
+
 ## Individual Files
 **ERA5LAND_dataset_to_Raster.ipynb** --> This code takes hourly ERA5-land datasets and turns them into rasters. The code can input the following variables: total precipitaion, 2m temperature, runoff, Evapotransipration, snow cover, snow depth, and potential evapotransipration. After rasters have been create, they are cut to a watershed's shapefile boundary, and then the climate variable is totaled/averaged over the basins area.
 
