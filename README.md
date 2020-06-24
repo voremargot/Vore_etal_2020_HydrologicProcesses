@@ -20,9 +20,9 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **ForestFire_Summary.ipynb** --> Creates a summary of forest fire events in each watershed since 1981.
 
-**Climate Index and Forest Fires.ipynb** --> 
+**Climate Index and Forest Fires.ipynb** --> This code creates a climate index from noramlized precipitation anomalies and normalized temperature anomalies. Climate index trends are then calculated and plots showing the relationship between forest fire size and the climate index are produced for multiple seasons and years. 
 
-**Forest Fires and Runoff.pynb** -->
+**Forest Fires and Runoff.pynb** --> 
 
 **Runoff and MPB.ipynb** -->
 
