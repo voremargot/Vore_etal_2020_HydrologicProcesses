@@ -24,7 +24,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **Forest Fires and Runoff.pynb** --> This code summerizes runoff/precipitation (R/P) and normalized precipitation anomalies (NPA) for 3 years pre- and post- forest fire events. Normalized R/P anomalies are calculated and the extreme R/P events (those that exceed the 95th perrcentile of data) are determined. These extreme R/P events are then compared to NPA to determine if they fall within the data distribution. 
 
-**Runoff and MPB.ipynb** -->
+**Runoff and MPB.ipynb** --> This code calcuates the normalized R/P anomalies for each year on record  and looks at linear trends of the runoff data during MPB outbreak and before MPB outbreaks. Subsets of the data are determined based on minimal changes in logging and forest fire ECA, with trends determined for each subset. 
 
 **Fhu Equation.ipynb** --> 
 
