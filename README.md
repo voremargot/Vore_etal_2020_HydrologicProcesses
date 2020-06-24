@@ -26,7 +26,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 
 **Runoff and MPB.ipynb** --> This code calcuates the normalized R/P anomalies for each year on record  and looks at linear trends of the runoff data during MPB outbreak and before MPB outbreaks. Subsets of the data are determined based on minimal changes in logging and forest fire ECA, with trends determined for each subset. 
 
-**Fhu Equation.ipynb** --> 
+**Fhu Equation.ipynb** --> This code calculates the average m and P/PET for each of our watersheds, according to Fhu's equation<sup>4</sup>. The findings of these calculations are compared with the conclusions made in Zhou et al. (2015).
 
 ## Data
 
@@ -38,5 +38,7 @@ All code is presented in Jupyter Notebook files written in Python. Files are org
 <sup>2</sup> Zhou, G., Wei, X., Chen, X., Zhou, P., Liu, X., Xiao, Y., … Su, Y. (2015). Global pattern for the effect of climate and land cover on water yield. Nature Communications, 6, 5918. https://doi.org/10.1038/ncomms6918
 
 <sup>3</sup> Safranyik, L., Shrimpton, D. M., & Whitney, H. S. (1975). An interpretation of the interaction between lodgepole pine, the mountain pine beetle, and its associated blue stain fungi in western Canada. Management of Lodgepole Pine Ecosystems Symposium Proceedings, 406–428. http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:No+Title#0
+
+<sup>4</sup> Zhou, G., Wei, X., Chen, X., Zhou, P., Liu, X., Xiao, Y., … Su, Y. (2015). Global pattern for the effect of climate and land cover on water yield. Nature Communications, 6, 5918. https://doi.org/10.1038/ncomms6918
 
 
